@@ -1,4 +1,4 @@
-# XRPL Hooks External Event Interface
+# XRPL Hooks Event AI-Oracle Interface
 
 by David Harness <br />Apple Developer ID: U2S9XH4H22 <br />Twitter: [davidtech.crypto @tensornerdo](https://twitter.com/tensornerdo)
 
